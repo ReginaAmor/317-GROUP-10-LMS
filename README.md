@@ -75,7 +75,7 @@ The system will provide a dynamic and user-friendly library platform that:
 - UI/UX: Figma
 - Frontend: HTML, CSS, JavaScript (or React)
 - Backend: Node.js / PHP
-- Database: MySQL
+- Database: MySQL lite
 - Deployment: GitHub + Netlify / Vercel
 - Version Control: Git & GitHub
 
